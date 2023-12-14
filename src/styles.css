@@ -1,0 +1,7 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.button-class:hover {
+  transform: scale(1.3);
+}
